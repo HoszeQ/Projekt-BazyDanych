@@ -1,0 +1,3 @@
+[submodule "source/przeglad/kopie-zapasowe"]
+	path = source/przeglad/kopie-zapasowe
+	url = git@github.com:HoszeQ/Rozdzial-Projektu.git
